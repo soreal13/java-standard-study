@@ -1,4 +1,4 @@
-package chap06;
+package OOP;
 
 class Tv {
 
